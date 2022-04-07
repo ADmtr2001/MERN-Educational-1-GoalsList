@@ -1,0 +1,29 @@
+{
+  "name": "node-educational-9-traversymern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADmtr2001/Node-Educational-9-TraversyMern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADmtr2001/Node-Educational-9-TraversyMern/issues"
+  },
+  "homepage": "https://github.com/ADmtr2001/Node-Educational-9-TraversyMern#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
